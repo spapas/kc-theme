@@ -1,0 +1,10 @@
+.login-pf body {
+    background: url(../img/hcg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+#kc-header-wrapper {
+    background: rgba(0, 5, 150, 0.7);
+    padding: 20px;
+}
