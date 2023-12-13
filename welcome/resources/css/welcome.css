@@ -1,0 +1,22 @@
+body {
+	background: #fff url(../img/bg.jpg);
+	background-size: cover;
+}
+.welcome-header {
+	margin: 20px;
+	padding: 20px;
+	background-color: rgba(0,180, 180, .5);
+}
+.welcome-header img {
+	width: 120px;
+	
+	
+}
+.welcome-message {
+	margin-top: 20px;
+}
+
+
+.welcome-header h1 {
+font-weight: bolder !important;	
+}
